@@ -14,9 +14,9 @@
 ## 🔭 Current Projects
 
 <!-- Project 1 with small custom image and linked title -->
-<div style="display: flex; align-items: center; gap: 10px">
+<div style="display: flex; align-items: center; gap: 8px">
   <img src="./assets/lychee.jpg" width="32" height="32" alt="Lychee">
-  <h3><a href="https://lycheeterm.com">Lychee</a></h3>
+  <a href="https://lycheeterm.com" style="font-size: 24px; font-weight: bold; text-decoration: none;">Lychee</a>
 </div>
 
 - 🌟 Building scalable AI pipelines with DSPy and Asyncio
