@@ -5,8 +5,10 @@
 </div>
 
 ## 🎓 About Me
-* 🏫 Double majoring in **Computer Science** and **Mathematics** at Georgia Tech
+#### Georgia Tech
+* 🏫 Double majoring in **Computer Science** and **Mathematics** 
 * 💻 Currently working on **AI/ML projects** and **quantitative research**
+#### Experience
 * 🚀 Software Engineer Intern at **JJ Bridge Consulting**
 * 📚 Teaching Assistant for **CS 3511: Design and Analysis of Algorithms (Honors)**
 * 🛰️ Leading CubeSAT project development at Fulton Science Academy
@@ -18,7 +20,7 @@
 * Enabled and processed 200+ trading model submission with $20k+ AUM (projected to reach $100k by spring)
 
 ## 🔭 Current Projects
-### <a href="https://lycheeterm.com" style="border: 1px solid #666; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 24px; font-weight: bold; line-height: 44px">Lychee</a> 
+### <a href="https://lycheeterm.com" style="border: 1px solid #666; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 24px; font-weight: bold; line-height: 44px">Lychee (check out our website!)</a> 
 <div style="display: flex; align-items: center; gap: 8px">
   <img src="./assets/lychee.jpg" width="64" height="64" alt="Lychee">
 </div>
