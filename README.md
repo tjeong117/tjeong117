@@ -10,23 +10,26 @@
 * 🚀 Software Engineer Intern at **JJ Bridge Consulting**
 * 📚 Teaching Assistant for **CS 3511: Design and Analysis of Algorithms (Honors)**
 * 🛰️ Leading CubeSAT project development at Fulton Science Academy
-
 ## 🔭 Current Projects
 
-<div style="display: flex; align-items: center; gap: 8px">
+<div style="display: flex; align-items: center; gap: 8px; height: 32px;">
   <img src="./assets/lychee.jpg" width="32" height="32" alt="Lychee">
-  <a href="https://lycheeterm.com" style="border: 1px solid #666; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 24px; font-weight: bold;">Lychee</a>
+  <a href="https://lycheeterm.com" style="display: flex; align-items: center; border: 1px solid #666; padding: 4px 12px; border-radius: 4px; text-decoration: none; font-size: 28px; font-weight: bold; height: 32px; line-height: 32px;">Lychee</a>
 </div>
 
 - 🌟 **Enhancing terminal productivity** with Lychee, a feature-packed terminal tool
 - 🔗 Streamline workflows with **quick commands** and customizable themes
 - 🚀 Designed for **efficiency** and **developer satisfaction**
 
-<div style="display: flex; align-items: center; gap: 8px">
+<div style="display: flex; align-items: center; gap: 8px; height: 32px;">
   <img src="./assets/favicon.png" width="32" height="32" alt="Bytality" style="border-radius: 8px;">
-  <a href="https://bytality.com" style="border: 1px solid #666; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 24px; font-weight: bold;">Bytality</a>
+  <a href="https://bytality.com" style="display: flex; align-items: center; border: 1px solid #666; padding: 4px 12px; border-radius: 4px; text-decoration: none; font-size: 28px; font-weight: bold; height: 32px; line-height: 32px;">Bytality</a>
 </div>
 
+- 📊 Developed at **Trading at Georgia Tech** as the primary platform for quantitative trading competitions
+- 💹 Managing **$20k+ AUM** in trading model submissions from GT, Berkeley, and UGA
+- 🎯 Created server platform enabling **200+ trading model submissions** with automated validation
+- 🚀 Projected to reach **$100k AUM** by Spring 2024 through inter-university competitions
 - 📊 Developed at **Trading at Georgia Tech** as the primary platform for quantitative trading competitions
 - 💹 Managing **$20k+ AUM** in trading model submissions from GT, Berkeley, and UGA
 - 🎯 Created server platform enabling **200+ trading model submissions** with automated validation
