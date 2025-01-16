@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tom (Wonsuk) Jeong
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+%26+ML+Enthusiast;LeBron+James+Fan;Mathematics+Student;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+%26+ML+Enthusiast;Mathematics+Student;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ## 🎓 About Me
@@ -13,9 +13,11 @@
 
 ## 🔭 Current Projects
 
-<div style="display: flex; justify-content: space-between;">
+<div align="center">
 
-[![Lychee](https://img.shields.io/badge/Lychee-AI-ff69b4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+)](https://github.com/yourusername/lychee)
+<!-- Project 1 with custom image -->
+[![Lychee](./assets/lychee.jpg)](https://lycheeterm.com)
+<!-- You can adjust width="200" to your preferred size -->
 - 🌟 Building scalable AI pipelines with DSPy and Asyncio
 - 🔗 Architected RAG system processing 2M+ code snippets
 - 🚀 Scaled infrastructure to handle 100K+ daily requests
