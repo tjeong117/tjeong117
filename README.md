@@ -13,8 +13,11 @@
 
 ## 🔭 Current Projects
 
-<!-- Project 1 with small custom image -->
-<img src="./assets/lychee.jpg" width="32" height="32" alt="Lychee">
+<!-- Project 1 with small custom image and linked title -->
+<div style="display: flex; align-items: center; gap: 10px">
+  <img src="./assets/lychee.jpg" width="32" height="32" alt="Lychee">
+  <h3><a href="https://lycheeterm.com">Lychee</a></h3>
+</div>
 
 - 🌟 Building scalable AI pipelines with DSPy and Asyncio
 - 🔗 Architected RAG system processing 2M+ code snippets
