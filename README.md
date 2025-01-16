@@ -18,10 +18,9 @@
 * Enabled and processed 200+ trading model submission with $20k+ AUM (projected to reach $100k by spring)
 
 ## 🔭 Current Projects
-### Lychee 
+### <a href="https://lycheeterm.com" style="border: 1px solid #666; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 24px; font-weight: bold; line-height: 44px">Lychee</a> 
 <div style="display: flex; align-items: center; gap: 8px">
-  <img src="./assets/lychee.jpg" width="32" height="32" alt="Lychee">
-  <a href="https://lycheeterm.com" style="border: 1px solid #666; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 24px; font-weight: bold; line-height: 44px">Lychee</a>
+  <img src="./assets/lychee.jpg" width="64" height="64" alt="Lychee">
 </div>
 
 - 🌟 **Enhancing terminal productivity** with Lychee, a feature-packed terminal tool
