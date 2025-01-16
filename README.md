@@ -16,10 +16,11 @@
 <!-- Project 1 with small custom image and linked title -->
 <div style="display: flex; align-items: center; gap: 8px">
   <img src="./assets/lychee.jpg" width="32" height="32" alt="Lychee">
-  <a href="https://lycheeterm.com" style="display: flex; align-items: center;">
-    <kbd>Lychee</kbd>
+  <a href="https://lycheeterm.com">
+    <kbd style="line-height: 1; display: inline-block;">Lychee</kbd>
   </a>
 </div>
+
 
 
 - 🌟 Building scalable AI pipelines with DSPy and Asyncio
