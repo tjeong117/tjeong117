@@ -11,35 +11,24 @@
 * 📚 Teaching Assistant for **CS 3511: Design and Analysis of Algorithms (Honors)**
 * 🛰️ Leading CubeSAT project development at Fulton Science Academy
 
-## 👥 Leadership
+## 🛳️ Leadership
+### Quant Research Sector Leader 
+* Developed  <a href="https://bytality.xyz" style="border: 1px solid #666; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 24px; font-weight: bold; line-height: 44px">Bytality (check it out!) </a>a server platform for submitting and validating trading models for competitions at GT, Berkeley, and UGA
+* Managed a team of 5 softeware engineers, overseeing development and implementation of quantitative model
+* Enabled and processed 200+ trading model submission with $20k+ AUM (projected to reach $100k by spring)
 
-**Quant Research Sector Leader** <div style="display: inline; vertical-align: middle;">developed by <img src="./assets/favicon.png" width="16" height="16" alt="Bytality" style="vertical-align: middle;"></div> Aug 2023 - Present  
-Trading at Georgia Tech *Atlanta, GA*
-- 🚀 Developed Bytality, a server platform for submitting and validating trading models for competitions at GT, Berkeley, and UGA
-- 👥 Managed a team of 5 software engineers, overseeing development and implementation of quantitative model pipeline
-- 📈 Enabled and processed 200+ trading model submission with $20k+ AUM (projected to reach $100k by spring)
-
-**CubeSAT Project Supervisor** Jan 2023 - Present  
-Fulton Science Academy *Alpharetta, GA*
-
+## 🔭 Current Projects
+### Lychee 
 <div style="display: flex; align-items: center; gap: 8px">
   <img src="./assets/lychee.jpg" width="32" height="32" alt="Lychee">
-  <a href="https://lycheeterm.com" style="border: 1px solid #666; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 24px; font-weight: bold;">Lychee</a>
+  <a href="https://lycheeterm.com" style="border: 1px solid #666; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 24px; font-weight: bold; line-height: 44px">Lychee</a>
 </div>
 
 - 🌟 **Enhancing terminal productivity** with Lychee, a feature-packed terminal tool
 - 🔗 Streamline workflows with **quick commands** and customizable themes
 - 🚀 Designed for **efficiency** and **developer satisfaction**
 
-<div style="display: flex; align-items: center; gap: 8px">
-  <img src="./assets/favicon.png" width="32" height="32" alt="Bytality" style="border-radius: 8px;">
-  <a href="https://bytality.xyz" style="border: 1px solid #666; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 24px; font-weight: bold;">Bytality</a>
-</div>
 
-- 📊 Developed at **Trading at Georgia Tech** as the primary platform for quantitative trading competitions
-- 💹 Managing **$20k+ AUM** in trading model submissions from GT, Berkeley, and UGA
-- 🎯 Created server platform enabling **200+ trading model submissions** with automated validation
-- 🚀 Projected to reach **$100k AUM** by Spring 2024 through inter-university competitions
 
 ## 💻 Tech Stack
 
@@ -70,13 +59,13 @@ Fulton Science Academy *Alpharetta, GA*
 
 ## 📄 Resume & Connect
 <div align="center">
-  <a href="./resume/wjeong_resume.pdf">
+  <a href="https://github.com/tjeong117/resume/blob/master/wjeong_resume.pdf">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader">
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tjeong117&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
 
 *Currently open to Summer 2025 internship opportunities in Software Engineering and Machine Learning roles.*
