@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tom (Wonsuk) Jeong
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+%26+ML+Enthusiast;Mathematics+Student;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+%26+ML+Enthusiast;#1+LeBron+James+Fan;Mathematics+Student;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ## 🎓 About Me
@@ -12,9 +12,25 @@
 - 🛰️ Leading CubeSAT project development at Fulton Science Academy
 
 ## 🔭 Current Projects
-- 🌟 **Lychee**: Building scalable AI pipelines with DSPy and Asyncio
-- 🧬 **Create-X Research**: Developing drug detection systems and protein synthesis management
-- 📊 **Trading at GT**: Leading quant research and managing trading model submissions
+
+<div style="display: flex; justify-content: space-between;">
+
+[![Lychee](https://img.shields.io/badge/Lychee-AI-ff69b4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+)](https://github.com/yourusername/lychee)
+- 🌟 Building scalable AI pipelines with DSPy and Asyncio
+- 🔗 Architected RAG system processing 2M+ code snippets
+- 🚀 Scaled infrastructure to handle 100K+ daily requests
+
+[![Create-X](https://img.shields.io/badge/Create--X-Research-00ff00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+)](https://github.com/yourusername/create-x)
+- 🧬 Developing novel drug detection systems
+- 🔬 Managing protein synthesis database with RAG
+- 📈 Achieved 44% faster database retrieval
+
+[![Trading at GT](https://img.shields.io/badge/Trading-GT-yellow?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/yourusername/trading-gt)
+- 📊 Leading quant research sector development
+- 💹 Managing $20k+ AUM trading model submissions
+- 🎯 Developed Bytality server platform
+
+</div>
 
 ## 💻 Tech Stack
 
