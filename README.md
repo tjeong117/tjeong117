@@ -13,11 +13,14 @@
 
 ## 🔭 Current Projects
 
-<div align="center">
+<!-- Project 1 with small custom image -->
+<img src="./assets/lychee.jpg" width="32" height="32" alt="Lychee">
 
-<!-- Project 1 with custom image -->
-[![Lychee](./assets/lychee.jpg)](https://lycheeterm.com)
-<!-- You can adjust width="200" to your preferred size -->
+- 🌟 Building scalable AI pipelines with DSPy and Asyncio
+- 🔗 Architected RAG system processing 2M+ code snippets
+- 🚀 Scaled infrastructure to handle 100K+ daily requests
+
+[![Create-X](https://img.shields.io/badge/Create--X-Research-00ff00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+)](https://github.com/yourusername/create-x)
 - 🌟 Building scalable AI pipelines with DSPy and Asyncio
 - 🔗 Architected RAG system processing 2M+ code snippets
 - 🚀 Scaled infrastructure to handle 100K+ daily requests
@@ -27,7 +30,9 @@
 - 🔬 Managing protein synthesis database with RAG
 - 📈 Achieved 44% faster database retrieval
 
-[![Trading at GT](https://img.shields.io/badge/Trading-GT-yellow?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/yourusername/trading-gt)
+<!-- Bytality Project with favicon -->
+<img src="./assets/favicon.png" width="80" alt="Bytality">
+
 - 📊 Leading quant research sector development
 - 💹 Managing $20k+ AUM trading model submissions
 - 🎯 Developed Bytality server platform
@@ -70,6 +75,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SingleStore](https://img.shields.io/badge/SingleStore-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white)
+
+</div>
+
+## 📄 Resume & Connect
+<div align="center">
+
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader)](./resume/wjeong_resume.pdf)
 
 </div>
 
