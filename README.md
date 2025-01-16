@@ -5,16 +5,16 @@
 </div>
 
 ## 🎓 About Me
-#### Georgia Tech
+### **Georgia Tech**
 * 🏫 Double majoring in **Computer Science** and **Mathematics** 
 * 💻 Currently working on **AI/ML projects** and **quantitative research**
-#### Experience
+### **Experience**
 * 🚀 Software Engineer Intern at **JJ Bridge Consulting**
 * 📚 Teaching Assistant for **CS 3511: Design and Analysis of Algorithms (Honors)**
 * 🛰️ Leading CubeSAT project development at Fulton Science Academy
 
 ## 🛳️ Leadership
-### Quant Research Sector Leader 
+### **Quant Research Sector Leader**
 * Developed  <a href="https://bytality.xyz" style="border: 1px solid #666; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 24px; font-weight: bold; line-height: 44px">Bytality (check it out!) </a>a server platform for submitting and validating trading models for competitions at GT, Berkeley, and UGA
 * Managed a team of 5 softeware engineers, overseeing development and implementation of quantitative model
 * Enabled and processed 200+ trading model submission with $20k+ AUM (projected to reach $100k by spring)
