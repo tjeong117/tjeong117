@@ -61,7 +61,7 @@
 
 ## 📄 Resume & Connect
 <div align="center">
-  <a href="./resume/wjeong_resume.pdf">
+  <a href="https://github.com/tjeong117/resume/blob/master/wjeong_resume.pdf">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader">
   </a>
 </div>
