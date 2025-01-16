@@ -13,14 +13,10 @@
 
 ## 🔭 Current Projects
 
-<!-- Project 1 with small custom image and linked title -->
-<div style="display: flex; align-items: center; gap: 8px">
-  <img src="./assets/lychee.jpg" width="32" height="32" alt="Lychee">
-  <a href="https://lycheeterm.com">
-    <kbd style="line-height: 1; display: inline-block;">Lychee</kbd>
-  </a>
-</div>
-
+[![Lychee](https://example.com/path/to/lychee.jpg)](https://lycheeterm.com)
+- 🌟 Enhancing terminal productivity with Lychee
+- 🔗 Streamlined workflows with advanced features
+- 🚀 Designed for efficiency and ease of use
 
 
 - 🌟 Building scalable AI pipelines with DSPy and Asyncio
