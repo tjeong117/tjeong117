@@ -31,8 +31,8 @@
 
 ### OrcaFold
 <div style="display: flex; align-items: center; gap: 8px; height: 32px;">
-  <img src="./assets/orcafold.png" width="32" height="32" alt="OrcaFold">
-  <a href="https://github.com/yourusername/orcafold" style="display: flex; align-items: center; border: 1px solid #666; padding: 4px 12px; border-radius: 4px; text-decoration: none; font-size: 28px; font-weight: bold; height: 32px; line-height: 32px;">OrcaFold</a>
+  <img src="./assets/orca.jpg" width="32" height="32" alt="OrcaFold">
+  <a href="https://github.com/tjeong117/orcafold" style="display: flex; align-items: center; border: 1px solid #666; padding: 4px 12px; border-radius: 4px; text-decoration: none; font-size: 28px; font-weight: bold; height: 32px; line-height: 32px;">OrcaFold</a>
 </div>
 
 - 🧬 Developed **protein folding prediction system** for molecular structure analysis
