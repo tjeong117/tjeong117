@@ -30,7 +30,7 @@
 - 🚀 Designed for **efficiency** and **developer satisfaction**
 
 
-###### <a href="https://github.com/tjeong117/orcafold" style="border: 1px solid #666; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 24px; font-weight: bold; line-height: 44px">Lychee (check out our website!)</a> 
+### <a href="https://github.com/tjeong117/orcafold" style="border: 1px solid #666; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 24px; font-weight: bold; line-height: 44px">OrcaFold (check out the repo!)</a> 
 <div style="display: flex; align-items: center; gap: 8px">
   <img src="./assets/orca.jpg" width="64" height="64" alt="OrcaFold">
 </div>
