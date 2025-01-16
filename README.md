@@ -29,10 +29,10 @@
 - 🔗 Streamline workflows with **quick commands** and customizable themes
 - 🚀 Designed for **efficiency** and **developer satisfaction**
 
-### OrcaFold
-<div style="display: flex; align-items: center; gap: 8px; height: 32px;">
+
+###### <a href="https://github.com/tjeong117/orcafold" style="border: 1px solid #666; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 24px; font-weight: bold; line-height: 44px">Lychee (check out our website!)</a> 
+<div style="display: flex; align-items: center; gap: 8px">
   <img src="./assets/orca.jpg" width="64" height="64" alt="OrcaFold">
-  <a href="https://github.com/tjeong117/orcafold" style="display: flex; align-items: center; border: 1px solid #666; padding: 4px 12px; border-radius: 4px; text-decoration: none; font-size: 28px; font-weight: bold; height: 32px; line-height: 32px;">OrcaFold</a>
 </div>
 
 - 🧬 Developed **protein folding prediction system** for molecular structure analysis
