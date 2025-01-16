@@ -16,7 +16,7 @@
 <!-- Project 1 with small custom image and linked title -->
 <div style="display: flex; align-items: center; gap: 8px">
   <img src="./assets/lychee.jpg" width="32" height="32" alt="Lychee">
-  <a href="https://lycheeterm.com" style="border: 1px solid #666; padding: 4px 8px; border-radius: 4px; text-decoration: none;">Lychee</a>
+  <a href="https://lycheeterm.com"><kbd>Lychee</kbd></a>
 </div>
 
 - 🌟 Building scalable AI pipelines with DSPy and Asyncio
