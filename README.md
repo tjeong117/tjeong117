@@ -15,7 +15,7 @@
 
 <div style="display: flex; align-items: center; gap: 8px">
   <img src="./assets/lychee.jpg" width="32" height="32" alt="Lychee">
-  <a href="https://lycheeterm.com" style="border: 1px solid #666; padding: 4px 8px; border-radius: 4px; text-decoration: none;">Lychee</a>
+  <a href="https://lycheeterm.com" style="border: 1px solid #666; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 24px; font-weight: bold;">Lychee</a>
 </div>
 
 - 🌟 **Enhancing terminal productivity** with Lychee, a feature-packed terminal tool
@@ -24,12 +24,13 @@
 
 <div style="display: flex; align-items: center; gap: 8px">
   <img src="./assets/favicon.png" width="32" height="32" alt="Bytality" style="border-radius: 8px;">
-  <a href="https://bytality.com" style="border: 1px solid #666; padding: 4px 8px; border-radius: 4px; text-decoration: none;">Bytality</a>
+  <a href="https://bytality.com" style="border: 1px solid #666; padding: 4px 8px; border-radius: 4px; text-decoration: none; font-size: 24px; font-weight: bold;">Bytality</a>
 </div>
 
-- 📊 **Leading quant research** sector development
-- 💹 Managing **$20k+ AUM trading model submissions**
-- 🎯 Created Bytality's server platform for seamless model testing and deployment
+- 📊 Developed at **Trading at Georgia Tech** as the primary platform for quantitative trading competitions
+- 💹 Managing **$20k+ AUM** in trading model submissions from GT, Berkeley, and UGA
+- 🎯 Created server platform enabling **200+ trading model submissions** with automated validation
+- 🚀 Projected to reach **$100k AUM** by Spring 2024 through inter-university competitions
 
 ## 💻 Tech Stack
 
