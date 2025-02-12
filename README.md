@@ -80,4 +80,3 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
 
-*Currently open to Summer 2025 internship opportunities in Software Engineering and Machine Learning roles.*
