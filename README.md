@@ -3,8 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+%26+ML+Enthusiast;Mathematics+Student;Problem+Solver" alt="Typing SVG" />
 </div>
-[![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjeong117)](https://github.com/anuraghazra/github-readme-stats)
-
+![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjeong117&show_icons=true&theme=radical)
 ## 🎓 About Me
 ### **Georgia Tech**
 * 🏫 Double majoring in **Computer Science** and **Mathematics** 
