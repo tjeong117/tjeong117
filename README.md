@@ -1,2 +1,1 @@
-I am the face of datafruit
-![Github Stats](https://greptile-stats.vercel.app/api/widget/tjeong117/stats)
+[![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjeong117)](https://github.com/anuraghazra/github-readme-stats)
